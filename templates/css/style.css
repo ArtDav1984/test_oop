@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+h1 {
+    text-align: center;
+}
+.auth {
+    display: flex;
+}
+.auth li a {
+    padding: 10px;
+}
